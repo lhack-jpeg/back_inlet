@@ -1,0 +1,13 @@
+setup.py
+back_inlet/__init__.py
+back_inlet/items.py
+back_inlet/middlewares.py
+back_inlet/pipelines.py
+back_inlet/settings.py
+back_inlet/spiders/__init__.py
+back_inlet/spiders/back_inlet_scraper.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
